@@ -1,6 +1,7 @@
 # FetchFE
 
 Howdy, this is the Fetch Frontend Take-Home Exercise in Vue 3.
+Demo: https://fetch-fe.pages.dev/
 
 
 ## Project Setup
